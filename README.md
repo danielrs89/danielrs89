@@ -8,17 +8,18 @@
 <br>
 <h3> Here you can find some of my work: </h3>
 <p>
-ANDROID
-  
-  - [De la huerta a la mesa](https://github.com/danielrs89/de-la-huerta-a-la-mesa)
-  
-HTML, CSS and JAVASCRIPT 
 
-- POKEAPI with VUE 3: https://poke-api-with-vue3.vercel.app/
-  - LOGIN / LOGOUT WITH AUTH0: https://login-logout-with-auth0.vercel.app/
-- CINEMA APP with TMDB API and VUE 3: https://lauraadan.github.io/Cine-App-with-TMDB_API/
-- SPACEX API with REACT: https://lauraadan.github.io/SpaceX-API-with-REACT/
-- TAGS INPUT with VUE 3: https://lauraadan.github.io/Vue-Tags-Input/
+# Multiplataforma
+  
+  - Aplicación para a android [De la huerta a la mesa](https://github.com/danielrs89/de-la-huerta-a-la-mesa)
+
+# Back-end
+
+  - Web Scraping en Java -> [DEMO](https://github.com/danielrs89/FinalPractice_Scrapp)
+
+# Front-End
+
+  - Proyectos en HTML5 -> [DEMO](https://danielrs89.github.io/sudja89.github.io/)
 
 ---
 
