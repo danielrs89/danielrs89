@@ -15,7 +15,7 @@
 
 # Back-end
 
-  - Web Scraping in Java -> [DEMO](https://github.com/danielrs89/FinalPractice_Scrapp)
+  - Web Scraping in Java -> [FinalPractice_Scrapp](https://github.com/danielrs89/FinalPractice_Scrapp)
 
 # Front-End
 
