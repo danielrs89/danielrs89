@@ -11,15 +11,15 @@
 
 # Multiplataforma
   
-  - Aplicación para a android [De la huerta a la mesa](https://github.com/danielrs89/de-la-huerta-a-la-mesa)
+  - Application for android [De la huerta a la mesa](https://github.com/danielrs89/de-la-huerta-a-la-mesa)
 
 # Back-end
 
-  - Web Scraping en Java -> [DEMO](https://github.com/danielrs89/FinalPractice_Scrapp)
+  - Web Scraping in Java -> [DEMO](https://github.com/danielrs89/FinalPractice_Scrapp)
 
 # Front-End
 
-  - Proyectos en HTML5 -> [DEMO](https://danielrs89.github.io/sudja89.github.io/)
+  - Proyects in HTML5 -> [DEMO](https://danielrs89.github.io/sudja89.github.io/)
 
 ---
 
