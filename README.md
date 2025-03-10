@@ -7,7 +7,7 @@
 </h3>
 <br>
 <h3> Here you can find some of my work: </h3>
-<p>
+
 
 # Multiplataforma
   
@@ -18,9 +18,8 @@
   - Web Scraping in Java -> [FinalPractice_Scrapp](https://github.com/danielrs89/FinalPractice_Scrapp)
 
 # Front-End
-  - Angular Web Proyect -> [Letra y Cifra](https://danielrs89.github.io/letraCifra/)
   - Doker file Web Proyect-> [De la huerta a la mesa](https://danielrs89.github.io/huertaMesa/src/index.html)
-  - Proyects in HTML5 -> [DEMO](https://danielrs89.github.io/sudja89.github.io/)
+  - Proyects in HTML5 -> [DEMOS](https://danielrs89.github.io/sudja89.github.io/)
 
 ---
 
@@ -33,9 +32,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="Vue" alt="Vue" width="60" height="60"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="60" height="60"/>&nbsp;
 
 </div>
