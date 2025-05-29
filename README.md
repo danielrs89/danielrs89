@@ -1,3 +1,4 @@
+<!--- --> 
 <h1>👋 Hi there!</h1>
 <h3>
 💻  I'm Daniel, a self-motivated tech enthusiast.
@@ -9,15 +10,17 @@
 <h3> Here you can find some of my work: </h3>
 
 # Front-End
-  - provider -> [Angular Proyect](https://github.com/danielrs89/provider)
-  - Letra Cifra -> [React Proyect](https://github.com/danielrs89/letraCifra) - [Download APK](https://github.com/danielrs89/zzzMultiplataforma/raw/refs/heads/master/letraCifra101.apk)
-  - Nasa Api -> [React Proyect](https://github.com/danielrs89/my-proyect/tree/peticion-api) - [Download APK](https://github.com/danielrs89/zzzMultiplataforma/raw/refs/heads/master/NasaApi101.apk)
-  - Doker file Web Proyect-> [De la huerta a la mesa](https://danielrs89.github.io/huertaMesa/src/index.html)
-  - Proyects in HTML5 -> [DEMOS](https://danielrs89.github.io/sudja89.github.io/)
+  - Servicio proveedores -> [Proyect](https://github.com/danielrs89/provider)
+  - Letra Cifra -> [Proyect](https://github.com/danielrs89/letraCifra)
+  - Nasa Api -> [Proyect](https://github.com/danielrs89/my-proyect/tree/peticion-api)
+  - Java Script -> [DEMOS](https://danielrs89.github.io/sudja89.github.io/)
+<!--- - [Download APK](https://github.com/danielrs89/zzzMultiplataforma/raw/refs/heads/master/letraCifra101.apk)  --> 
+<!--- - [Download APK](https://github.com/danielrs89/zzzMultiplataforma/raw/refs/heads/master/NasaApi101.apk) --> 
+<!--- - Doker file Web Proyect-> [De la huerta a la mesa](https://danielrs89.github.io/huertaMesa/src/index.html) -->   
 
 # Back-end
-  - provider_node -> [Node.js](https://github.com/danielrs89/provider_node)
-  - Web Scraping -> [FinalPractice_Scrapp](https://github.com/danielrs89/FinalPractice_Scrapp)
+  - provider_node -> [Proyect](https://github.com/danielrs89/provider_node)
+  - Web Scraping -> [Scrapp](https://github.com/danielrs89/FinalPractice_Scrapp)
     
 # Multiplataforma
   
